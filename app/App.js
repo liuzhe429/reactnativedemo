@@ -139,4 +139,4 @@ const styles = StyleSheet.create({
     marginRight:0,
   }
 })
-AppRegistry.registerComponent('testdemo', () => MyNavigatior)
+AppRegistry.registerComponent('demo', () => MyNavigatior)
